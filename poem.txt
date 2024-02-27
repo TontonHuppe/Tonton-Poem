@@ -7,5 +7,7 @@ Oximores
 Figures de style
 Énumérations
 La licorne
+Le chat
+La souris
 
 Ceci est le poème et la licorne
