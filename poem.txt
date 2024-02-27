@@ -7,7 +7,10 @@ Oximores
 Figures de style
 Énumérations
 La licorne
+Poney
 Le poney
+Le chat
+La souris
 
 Ceci est le poème et la licorne
 Ha! Et de ponay aussi!
