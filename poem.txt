@@ -1,4 +1,4 @@
-Le poème
+Le poème et la licorne
 
 Rimes
 Alexandrins
@@ -6,5 +6,6 @@ Pas
 Oximores
 Figures de style
 Énumérations
+La licorne
 
-Ceci est le poème
+Ceci est le poème et la licorne
