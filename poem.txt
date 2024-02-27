@@ -1,4 +1,4 @@
-Le poème et la licorne
+Le poème et la licorne et le poney
 
 Rimes
 Alexandrins
@@ -7,5 +7,7 @@ Oximores
 Figures de style
 Énumérations
 La licorne
+Le poney
 
 Ceci est le poème et la licorne
+Ha! Et de ponay aussi!
