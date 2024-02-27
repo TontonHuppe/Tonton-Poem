@@ -4,5 +4,6 @@ Rimes
 Alexandrins
 Pas
 Oximores
+Figures de style
 
 Ceci est le poème
