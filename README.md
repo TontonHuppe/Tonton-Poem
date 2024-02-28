@@ -1,2 +1,2 @@
 # Tonton Poem
- This is a repo for Tonton
+This is the Git and GitHub for Poets tutorial from The Coding Train
